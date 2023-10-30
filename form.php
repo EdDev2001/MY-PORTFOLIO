@@ -5,7 +5,7 @@ $phone = $_POST['phone'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$email_from = 'index.html';
+$email_from = 'https://ed-dev2001.vercel.app/';
 
 $email_subject = 'New Form Submission';
 
